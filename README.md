@@ -13,7 +13,7 @@ TestBankingAPI is a test suite for the BankingAPI project, which tests various f
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/TestBankingAPI.git
+   git clone [https://github.com/your-username/TestBankingAPI.git](https://github.com/RohanKarimi/Banking-API-Test.git)
 
 Navigate to the project directory:
   cd TestBankingAPI
